@@ -1,0 +1,3 @@
+/Users/zengyazhi/Documents/zyzdev/xqs/CMakeDemo/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/zengyazhi/Documents/zyzdev/xqs/CMakeDemo/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/zengyazhi/Documents/zyzdev/xqs/CMakeDemo/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir
