@@ -1,0 +1,38 @@
+
+{
+	"buildFiles" : [ "/Users/zengyazhi/Documents/code/CMakeDemo/ndkdemo/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"/Users/zengyazhi/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/zengyazhi/Documents/code/CMakeDemo/ndkdemo/.externalNativeBuild/cmake/release/armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"bitmap-util-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "bitmap-util",
+			"buildCommand" : "/Users/zengyazhi/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/zengyazhi/Documents/code/CMakeDemo/ndkdemo/.externalNativeBuild/cmake/release/armeabi-v7a --target bitmap-util",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/zengyazhi/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/zengyazhi/Library/Android/sdk/ndk-bundle/sysroot  -Dbitmap_util_EXPORTS -isystem /Users/zengyazhi/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/zengyazhi/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include -isystem /Users/zengyazhi/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/zengyazhi/Library/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/zengyazhi/Documents/code/CMakeDemo/ndkdemo/src/main/cpp/bitmap-util.cpp",
+					"workingDirectory" : "/Users/zengyazhi/Documents/code/CMakeDemo/ndkdemo/.externalNativeBuild/cmake/release/armeabi-v7a"
+				}
+			],
+			"output" : "/Users/zengyazhi/Documents/code/CMakeDemo/ndkdemo/build/intermediates/cmake/release/obj/armeabi-v7a/libbitmap-util.so",
+			"toolchain" : "15832501059924771677"
+		}
+	},
+	"toolchains" : 
+	{
+		"15832501059924771677" : 
+		{
+			"cCompilerExecutable" : "/Users/zengyazhi/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/zengyazhi/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

@@ -1,0 +1,7 @@
+# ninja log v5
+0	142	0	CMakeFiles/bitmap-util.dir/src/main/cpp/bitmap-util.cpp.o	197323c4c7843fd7
+143	192	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libbitmap-util.so	1efa90c67f9acb05
+0	80	0	CMakeFiles/bitmap-util.dir/src/main/cpp/bitmap-util.cpp.o	197323c4c7843fd7
+80	105	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libbitmap-util.so	1efa90c67f9acb05
+0	210	0	CMakeFiles/bitmap-util.dir/src/main/cpp/bitmap-util.cpp.o	197323c4c7843fd7
+210	256	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libbitmap-util.so	1efa90c67f9acb05

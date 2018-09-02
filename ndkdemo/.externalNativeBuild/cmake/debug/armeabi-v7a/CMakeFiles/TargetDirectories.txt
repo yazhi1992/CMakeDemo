@@ -1,0 +1,3 @@
+/Users/zengyazhi/Documents/code/CMakeDemo/ndkdemo/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/zengyazhi/Documents/code/CMakeDemo/ndkdemo/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/zengyazhi/Documents/code/CMakeDemo/ndkdemo/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/bitmap-util.dir

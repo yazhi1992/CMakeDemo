@@ -1,0 +1,15 @@
+# ninja log v5
+1	207	0	CMakeFiles/bitmap-util.dir/src/main/cpp/bitmap-util.cpp.o	e3f007f3c937558c
+207	252	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libbitmap-util.so	7144dc20b43541f2
+0	70	0	CMakeFiles/bitmap-util.dir/src/main/cpp/bitmap-util.cpp.o	e3f007f3c937558c
+70	101	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libbitmap-util.so	7144dc20b43541f2
+0	158	0	CMakeFiles/bitmap-util.dir/src/main/cpp/bitmap-util.cpp.o	e3f007f3c937558c
+158	203	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libbitmap-util.so	7144dc20b43541f2
+0	60	0	CMakeFiles/bitmap-util.dir/src/main/cpp/bitmap-util.cpp.o	e3f007f3c937558c
+60	83	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libbitmap-util.so	7144dc20b43541f2
+0	153	0	CMakeFiles/bitmap-util.dir/src/main/cpp/bitmap-util.cpp.o	e3f007f3c937558c
+153	203	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libbitmap-util.so	7144dc20b43541f2
+0	60	0	CMakeFiles/bitmap-util.dir/src/main/cpp/bitmap-util.cpp.o	e3f007f3c937558c
+60	90	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libbitmap-util.so	7144dc20b43541f2
+0	50	0	CMakeFiles/bitmap-util.dir/src/main/cpp/bitmap-util.cpp.o	e3f007f3c937558c
+50	75	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libbitmap-util.so	7144dc20b43541f2
